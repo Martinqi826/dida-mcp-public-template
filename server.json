@@ -1,0 +1,8 @@
+{
+  "name": "dida-mcp-public-template",
+  "description": "Public skeleton template for connecting TickTick/Dida MCP via mcporter (no secrets included).",
+  "repository": "https://github.com/Martinqi826/dida-mcp-public-template",
+  "homepage": "https://github.com/Martinqi826/dida-mcp-public-template",
+  "tags": ["productivity", "tasks", "template", "ticktick", "dida"],
+  "license": "MIT"
+}

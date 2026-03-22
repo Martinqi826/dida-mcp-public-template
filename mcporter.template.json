@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "dida-mcp": {
+      "command": "/usr/bin/python3",
+      "args": [
+        "-m",
+        "dida_mcp.cli",
+        "run"
+      ],
+      "description": "Dida/TickTick MCP Server - Project and Task Management",
+      "env": {
+        "DIDA_CLIENT_ID": "YOUR_DIDA_CLIENT_ID",
+        "DIDA_CLIENT_SECRET": "YOUR_DIDA_CLIENT_SECRET",
+        "DIDA_REDIRECT_URI": "YOUR_DIDA_REDIRECT_URI"
+      }
+    }
+  },
+  "imports": []
+}
